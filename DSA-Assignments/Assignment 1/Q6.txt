@@ -1,0 +1,1 @@
+Only _FLOAT and FLOAT are valid variable names.

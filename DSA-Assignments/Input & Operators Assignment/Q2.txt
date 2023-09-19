@@ -1,0 +1,11 @@
+according to the input given in the question 
+x = 3 
+y = 2 
+// cout<<(x!=y)<<" "<<(x>=y);
+1st case
+3!=2 which is true so the output will be "1" for this case. 
+
+2nd case 
+x>=y which is also true so the output for this case will also be "1".
+
+Ans : 1 1

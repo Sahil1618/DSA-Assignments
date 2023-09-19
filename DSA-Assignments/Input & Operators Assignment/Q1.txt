@@ -1,0 +1,8 @@
+According to the given input in the question i.e = 2 3 and 6
+output will be : 
+
+int z = (2*3) % 6 // brackets will have higher precedence so we will solve them first.
+int z = 6 % 6 // after solving brackets the value will be 2*3 = 6 , now we will solve the modulus operator
+int z = 0
+
+Ans: 0

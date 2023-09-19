@@ -1,0 +1,5 @@
+the output of 
+int i = ( 4 + 7 / 5 * 6 * 6+9 )% 100 ;
+cout<<i;
+will be 49 , we will first calculate what's inside of the brackets and then the output will be % by 100
+therefore the answer will be 49.
