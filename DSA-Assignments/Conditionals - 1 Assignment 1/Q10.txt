@@ -1,0 +1,16 @@
+int main() { 
+int a = 500, b, c ; 
+if ( a >= 400 ) 
+b = 300 ; 
+c = 200 ; 
+cout << "value of b and c are respectively “ <<b<<” and ” << c  ; 
+	return 0;
+}
+
+
+Ans : 
+According to the question the value of a is 500 which satisfies the condition given in if block and the if 
+block will be executed and value of b and c will become 300 and 200 respectively.
+a = 500
+b = 300
+c = 200
