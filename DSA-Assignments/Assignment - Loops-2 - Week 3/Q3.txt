@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+using namespace std;
+int main( ) {
+for (int x = 1; x * x <= 10; x++) 
+cout << "In for loop" << endl;
+} 
+
+
+Ans : In for loop
+      In for loop
+      In for loop
+
+      The for loop will run for x = 3 and then for x = 4 the condition (x*x <= 10) will be false and the loop will stop.
+      
